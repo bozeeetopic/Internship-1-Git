@@ -11,7 +11,7 @@ namespace TrecaIgra
 
             Console.WriteLine("   |   |   ");
             Console.WriteLine("   |   |   ");
-            Console.WriteLine("   |   |   ");
+            Console.WriteLine("   |   | x ");
         }
     }
 }

@@ -11,7 +11,7 @@ namespace DrugaIgra
 
             Console.WriteLine("   |   | x ");
             Console.WriteLine("   |   |   ");
-            Console.WriteLine("   |   |   ");
+            Console.WriteLine(" o |   |   ");
         }
     }
 }

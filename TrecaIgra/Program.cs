@@ -10,7 +10,7 @@ namespace TrecaIgra
             Console.WriteLine("[ime_igrača] ima z pobjeda i n poraza!");
 
             Console.WriteLine(" o |   |   ");
-            Console.WriteLine("   |   | x ");
+            Console.WriteLine(" o |   | x ");
             Console.WriteLine("   |   | x ");
         }
     }

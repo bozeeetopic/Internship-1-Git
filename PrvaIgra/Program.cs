@@ -10,8 +10,9 @@ namespace PrvaIgra
             Console.WriteLine("[ime_igrača] ima z pobjeda i n poraza!");
 
             Console.WriteLine(" x |   |  o ");
-            Console.WriteLine(" x |   |   ");
+            Console.WriteLine(" x |   |  o ");
             Console.WriteLine("   |   |   ");
+   
         }
     }
 }

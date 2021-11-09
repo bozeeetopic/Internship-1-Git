@@ -10,7 +10,7 @@ namespace DrugaIgra
             Console.WriteLine("Marin ima 3 pobjeda i 0 poraza!");
 
             Console.WriteLine("   |   | x ");
-            Console.WriteLine("   |   | x ");
-            Console.WriteLine(" o | o | o ");
+            Console.WriteLine("   | o | x ");
+            Console.WriteLine(" o | o | x ");
     }
 }

@@ -6,8 +6,8 @@ namespace TrecaIgra
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bože ima x pobjeda i y poraza!");
-            Console.WriteLine("Marin ima z pobjeda i n poraza!");
+            Console.WriteLine("Bože ima 0 pobjeda i 3 poraza!");
+            Console.WriteLine("Marin ima 3 pobjeda i 0 poraza!");
 
             Console.WriteLine(" o |   | x ");
             Console.WriteLine(" o | x |   ");

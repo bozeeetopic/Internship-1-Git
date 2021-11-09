@@ -10,9 +10,8 @@ namespace PrvaIgra
             Console.WriteLine("Marin ima z pobjeda i n poraza!");
 
             Console.WriteLine(" x |   |  o ");
-            Console.WriteLine(" x |   |    ");
+            Console.WriteLine(" x |   |  o ");
             Console.WriteLine("   |   |    ");
-
         }
     }
 }

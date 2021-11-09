@@ -10,9 +10,8 @@ namespace TrecaIgra
             Console.WriteLine("Marin ima z pobjeda i n poraza!");
 
             Console.WriteLine(" o |   |   ");
-            Console.WriteLine(" o |   | x ");
             Console.WriteLine("   |   | x ");
-  
+            Console.WriteLine("   |   | x ");
         }
     }
 }

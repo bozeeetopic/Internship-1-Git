@@ -11,7 +11,7 @@ namespace PrvaIgra
 
             Console.WriteLine(" x |   |  o ");
             Console.WriteLine(" x |   |  o ");
-            Console.WriteLine("   |   |    ");
+            Console.WriteLine(" x |   |    ");
         }
     }
 }

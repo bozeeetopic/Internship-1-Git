@@ -6,11 +6,11 @@ namespace DrugaIgra
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("[ime_igrača] ima x pobjeda i y poraza!");
-            Console.WriteLine("[ime_igrača] ima z pobjeda i n poraza!");
+            Console.WriteLine("Bože ima x pobjeda i y poraza!");
+            Console.WriteLine("Marin ima z pobjeda i n poraza!");
 
             Console.WriteLine("   |   | x ");
-            Console.WriteLine("   |   | x ");
-            Console.WriteLine(" o |   | o ");
+            Console.WriteLine("   |   |   ");
+            Console.WriteLine(" o |   |   ");
     }
 }
